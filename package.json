@@ -1,0 +1,8 @@
+{
+  "name": "HS-rn-expo-template",
+  "version": "0.0.1",
+  "description": "React Native Expo Template",
+  "repository": "https://github.com/ams925/HS-rn-expo-template.git",
+  "author": "Asif Mahmud <asifshishir47@gmail.com>",
+  "license": "MIT"
+}
